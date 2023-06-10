@@ -1,0 +1,77 @@
+.furniture{
+    
+    font-family: Montserrat;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 50px;
+    font-style: bold;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #054C73;
+}
+.navtext{
+    font-family: Montserrat;
+font-size: 14px;
+font-weight: 600;
+
+letter-spacing: 0px;
+text-align: left;
+
+}
+.footercolor{
+    background-color: rgba(3, 52, 79, 1);
+
+}
+.footertxt1{
+    font-family: Montserrat;
+font-size: 24px;
+font-weight: 700;
+line-height: 45px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+.footertxt2{
+    font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+line-height: 38px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+.footertxt3{
+    font-family: Montserrat;
+font-size: 24px;
+font-weight: 700;
+line-height: 1px;
+letter-spacing: 0px;
+text-align: left;
+
+}
+@media screen and (max-width:1200px) {
+    .img1{
+        width: 80px;
+        height: 80px;
+    }
+    .imgmain{
+        margin-top: 30px;
+    }
+    .main1{
+        padding: 5px 5px 5px 5px
+    }
+    
+}
+@media screen and (max-width:992px) {
+   .foot1{
+    margin-top: 20px;
+   }
+    
+}
+@media screen and (max-width:350px) {
+    .foot1{
+     margin-top: 20px;
+    }
+     
+ }
+

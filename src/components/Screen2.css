@@ -1,0 +1,580 @@
+.backgroundimg {
+    background-image: url("../assets/scandinavian-interior-mockup-wall-decal-background 1.png");
+
+    width: 100%;
+    max-height: 100%;
+    height: 750px;
+}
+
+.maincard {
+    border: none;
+
+    background: #DFE9F4;
+    height: 443px;
+    width: 643px;
+    top: 20%;
+    left: 20%;
+    border-radius: 10px;
+
+
+}
+
+.ctitle {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 3px;
+    text-align: left;
+
+}
+
+.ctext {
+    color: #054C73;
+    font-family: Montserrat;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 65px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+
+.ctext2 {
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 39px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+
+.btn1 {
+    height: 60px;
+    width: 205px;
+    background: #054C73;
+    border: none;
+    border-radius: 50px;
+    padding: 18px 6px 18px 6px;
+
+}
+
+.btntext {
+    font-family: Montserrat;
+    font-size: 13px;
+    font-weight: 700;
+
+    text-align: center;
+
+}
+
+.free {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+
+.inspiration {
+    padding-top: 35px;
+    font-family: Montserrat;
+    font-style: 'Regular';
+    font-size: 30px;
+    font-weight: 1000px;
+    line-height: 39px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #333333;
+
+}
+
+.lorem {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #666666;
+
+}
+
+.backcolor {
+    background: #F2F5FF;
+
+}
+
+.img4 {
+    height: 434px;
+}
+
+.background1 {
+    background: #F2F5FF;
+
+
+}
+
+.beauty {
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 39px;
+    letter-spacing: 0px;
+
+
+}
+
+.do {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 39px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #666666;
+
+
+}
+
+.btn2 {
+    height: 55px;
+    width: 215px;
+    background: #054C73;
+    border: none;
+    border-radius: 50px;
+    padding: 18px 6px 18px 6px;
+
+}
+
+.btntext1 {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+
+    text-align: center;
+}
+
+.maindiv {
+    position: relative;
+}
+
+.mainbeauty {
+    position: absolute;
+    top: 15%;
+
+}
+
+.img6 {
+    width: 500px;
+    height: 700px;
+}
+
+.browse {
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+
+.lorem2 {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #666666;
+
+}
+
+.card1 {
+    border: none;
+}
+
+.cardimg2 {
+    border-radius: 10px;
+}
+
+.card1title {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: center;
+
+}
+
+.work {
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0px;
+
+
+}
+
+.card2title {
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: center;
+
+}
+
+.card2text {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: center;
+
+}
+
+.join {
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0px;
+    text-align: center;
+
+}
+
+.sign {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 39px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #666666;
+
+}
+
+.pos {
+    margin-top: 60px;
+}
+
+.maininput {
+    position: relative;
+    padding-left: 30%;
+    height: 40px;
+
+}
+
+
+.input {
+    width: 370px;
+    height: 60px;
+    border: 1px solid rgba(5, 76, 115, 1);
+    border-radius: 3px;
+    opacity: 30%;
+}
+
+.inputbtn {
+    border: 1px solid rgba(1, 28, 66, 1);
+    width: 100px;
+    height: 60px;
+    background-color: #054C73;
+    border-radius: 3px;
+}
+
+
+@media screen and (max-width:992px) {
+    .maincard {
+        width: 400px;
+        height: 500px;
+        left: 0%;
+    }
+    .ctext{
+        font-size: 35px;
+    }
+     .ctext2{
+        font-size: 16px;
+     }
+    .img3 {
+
+        width: 300px;
+        height: 300px;
+        padding-top: 30px;
+        left: 0%;
+        padding-left: 20px;
+    }
+
+    .img4 {
+
+        width: 300px;
+        height: 300px;
+        padding-top: 30px;
+        left: 0%;
+        padding-left: 20px;
+    }
+
+    .img5 {
+
+        width: 300px;
+        height: 300px;
+        padding-top: 30px;
+        left: 0%;
+        padding-left: 20px;
+
+    }
+
+    .img6 {
+        width: 300px;
+        height: 300px;
+    }
+
+    .beauty {
+        font-family: Montserrat;
+        font-size: 20px;
+        font-weight: 800;
+        left: 0%;
+
+
+    }
+
+    .do {
+        font-family: Montserrat;
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 20px;
+        letter-spacing: 0px;
+        text-align: left;
+        color: #666666;
+        left: 0%;
+
+    }
+
+    .btn2 {
+        height: 55px;
+        width: 150px;
+        background: #054C73;
+        border: none;
+        border-radius: 50px;
+        padding: 18px 6px 18px 6px;
+        left: 0%;
+    }
+
+    .btntext1 {
+        font-family: Montserrat;
+        font-size: 12px;
+        font-weight: 700;
+
+        text-align: center;
+    }
+
+    .card1title {
+        font-family: Montserrat;
+        font-size: 34px;
+        font-weight: 600;
+        line-height: 29px;
+        letter-spacing: 0px;
+        text-align: center;
+
+    }
+
+    .input {
+        width: 300px;
+        height: 40px;
+    }
+
+    .inputbtn {
+        width: 90px;
+        height: 40px;
+    }
+    .pos{
+        height: 240px;
+    }
+
+
+}
+
+@media screen and (max-width:768px) {
+    .maincard {
+        width: 400px;
+        height: 400px;
+        left: 0%;
+    }
+
+    .free {
+        margin-top: 25px;
+    }
+
+    .img1 {
+        width: 70px;
+    }
+    .img2 {
+        width: 70px;
+        height: 50px;
+    }
+
+    .mainbeauty {
+        margin-top: 20px;
+    }
+
+    .btn2 {
+        width: 210px;
+        height: 60px;
+    }
+
+    .btntext1 {
+        font-size: 12px;
+    }
+
+    .beauty {
+        font-size: 20px;
+    }
+
+
+    .ctitle {
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 20px;
+        letter-spacing: 3px;
+        text-align: left;
+    }
+
+    .ctext {
+        font-size: 22px;
+        font-weight: 800;
+        line-height: 30px;
+        letter-spacing: 3px;
+        text-align: left;
+    }
+
+    .ctext2 {
+        font: 14px;
+        font-weight: 200;
+        line-height: 30px;
+        letter-spacing: 3px;
+        text-align: left;
+    }
+
+
+    .screen4 {
+        margin-top: 300px;
+    }
+
+    .maininput {
+
+        padding-left: 0%;
+    }
+
+    .input {
+        width: 300px;
+        height: 40px;
+    }
+
+    .inputbtn {
+        width: 90px;
+        height: 40px;
+    }
+    .pos{
+        height: 240px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .maincard {
+        width: 300px;
+        height: 400px;
+        left: 0%;
+    }
+
+    .screen2 {
+        width: 270px;
+    }
+
+    .cardimg2 {
+        width: 270px;
+        height: 300px;
+    }
+
+    .ctitle {
+        font-size: 12px;
+        font-weight: 200;
+
+        letter-spacing: 3px;
+        text-align: left;
+    }
+
+    .ctext {
+        font-size: 12px;
+        font-weight: 200;
+
+        letter-spacing: 3px;
+        text-align: left;
+    }
+
+    .ctext2 {
+        font-size: 12px;
+        font-weight: 200;
+
+        letter-spacing: 3px;
+        text-align: left;
+    }
+
+    .cardimg {
+        width: 300px;
+        height: 300px;
+    }
+
+    .input {
+        width: 250px;
+        height: 40px;
+    }
+
+    .inputbtn {
+        width: 80px;
+        height: 40px;
+    }
+    .pos{
+        height: 260px;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .input {
+        width: 230px;
+        height: 40px;
+    }
+
+    .inputbtn {
+        width: 60px;
+        height: 40px;
+        font-size: 12px;
+    }
+    .pos{
+        height: 340px;
+    }
+}
+
+@media screen and (max-width:300px) {
+    .input {
+        width: 170px;
+        height: 35px;
+        font-size: 12px;
+    }
+
+    .inputbtn {
+        width: 55px;
+        height: 35px;
+        font-size: 10px;
+    }
+    .pos{
+        height: 340px;
+    }
+}
