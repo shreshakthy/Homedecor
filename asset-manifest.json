@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Homedecor/static/css/main.b34ac7db.css",
+    "main.js": "/Homedecor/static/js/main.f656f6af.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Homedecor/static/js/787.28cb0dcd.chunk.js",
+    "static/media/scandinavian-interior-mockup-wall-decal-background 1.png": "/Homedecor/static/media/scandinavian-interior-mockup-wall-decal-background 1.2fdeb4ed99f3c5212043.png",
+    "static/media/Mask Group (3).png": "/Homedecor/static/media/Mask Group (3).0fb84ca1a620339e009d.png",
+    "static/media/image 101.png": "/Homedecor/static/media/image 101.247f4c6ad9ff30fa5440.png",
+    "static/media/image 100.png": "/Homedecor/static/media/image 100.288b62572cf8ca003d80.png",
+    "static/media/Purchase Securely.png": "/Homedecor/static/media/Purchase Securely.05661990837282e10484.png",
+    "static/media/image 106.png": "/Homedecor/static/media/image 106.cad4d8bfbd3a5d5566b9.png",
+    "static/media/Mask Group (1).png": "/Homedecor/static/media/Mask Group (1).b1140a0b706884d656eb.png",
+    "static/media/Mask Group.png": "/Homedecor/static/media/Mask Group.bc075db484a95f2db20f.png",
+    "static/media/Ships From Warehouse.png": "/Homedecor/static/media/Ships From Warehouse.269e6a7a253213c3e31b.png",
+    "static/media/Style Your Room.png": "/Homedecor/static/media/Style Your Room.28221b036eeb8431ccfe.png",
+    "static/media/image 95.png": "/Homedecor/static/media/image 95.f91ef62e7ce6cd8aacfe.png",
+    "static/media/image 98.png": "/Homedecor/static/media/image 98.054b91cf84334cec81fe.png",
+    "static/media/Mask Group (2).png": "/Homedecor/static/media/Mask Group (2).4abcaa3c77622115296c.png",
+    "static/media/image 96.png": "/Homedecor/static/media/image 96.0a8be2cfd90a6993a821.png",
+    "static/media/image 94.png": "/Homedecor/static/media/image 94.81cfdeda92feddfc7ec7.png",
+    "static/media/Group (1).svg": "/Homedecor/static/media/Group (1).2699da53060a5b56b04f495c091dd939.svg",
+    "static/media/Group.svg": "/Homedecor/static/media/Group.88dd7a9cbd47746a718b46dc720902a4.svg",
+    "static/media/logo.svg": "/Homedecor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Homedecor/index.html",
+    "main.b34ac7db.css.map": "/Homedecor/static/css/main.b34ac7db.css.map",
+    "main.f656f6af.js.map": "/Homedecor/static/js/main.f656f6af.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Homedecor/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b34ac7db.css",
+    "static/js/main.f656f6af.js"
+  ]
+}
